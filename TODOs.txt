@@ -1,0 +1,8 @@
+TODO: Add rate limiter
+TODO: Add email verification
+TODO: Change the password reset email to something more meaningful
+TODO: Move favorite stock API to their own class
+
+TODO: Fix user update API
+TODO: Change Stock get API to return DTO
+TODO: Fix Staff update API
